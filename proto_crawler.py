@@ -1,19 +1,3 @@
-""" 
-Dev environment:
-Python 3.13.7
-Libraries: csv, json, re
-
-Before running:
-pip install playwright
-playwright install firefox # or chromium
-
-atau jika menggunakan virtualenv:
-virtualenv proto_crawler
-cd proto_crawler
-source bin/activate
-python -m pip install playwright
-"""
-
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeout
 import csv, json, re
 
