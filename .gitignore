@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+.DS_Store
+archived/
+bin/
+lib/
+logs/
+
+
