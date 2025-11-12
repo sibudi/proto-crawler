@@ -1,5 +1,8 @@
 # created by virtualenv automatically
 .DS_Store
+CACHEDIR.TAG
+pyvenv.cfg
+
 archived/
 bin/
 lib/
